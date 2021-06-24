@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script
+src="http://maps.googleapis.com/maps/api/js">
+</script>
+
+
+</head>
+
+<body>
+<div id="googleMap" style="width:500px;height:380px;"></div>
+
+<script>
+var myCenter = new google.maps.LatLng(24.747168, 90.420021);
+
+function initialize() {
+    var mapProp = {
+        center: myCenter,
+        scrollwheel: false,
+        draggable: false, //To controll Draggable
+        zoomControl: false,
+
+        //scrollwheel: false,
+        //navigationControl: false,
+        mapTypeControl: false,
+        disableDoubleClickZoom: true,
+        //scaleControl: false,
+        zoom: 17,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+            //there are 4 type of Map, use any one of them above =>>
+            //1.ROADMAP:normal, default 2D map
+            //2.SATELLITE:photographic map
+            //3.HYBRID:photographic map + roads and city names
+            //4.TERRAIN:map with mountains, rivers, etc.  
+    };
+
+    var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
+    var marker = new google.maps.Marker({
+        position: myCenter,
+        //to animate the markar =>> animation:google.maps.Animation.BOUNCE
+
+        //to use custom markar icon =>> icon:'markar.png'
+    });
+
+    marker.setMap(map);
+
+    //to use info window : Start
+    //var infowindow = new google.maps.InfoWindow({
+    //content:"I am here"
+    //});
+    //infowindow.open(map,marker);
+    //to use info window : Close
+
+
+    // Zoom to 3 when clicking on marker : Start
+    //google.maps.event.addListener(marker,'click',function() {
+    //map.setZoom(9);
+    //map.setCenter(marker.getPosition());
+    //});
+    // Zoom to 3 when clicking on marker : Close
+
+
+    // 2 seconds after the center of the map has changed, pan back to the marker : Start 
+    //google.maps.event.addListener(map,'center_changed',function() {
+    //window.setTimeout(function() {
+    //map.panTo(marker.getPosition());
+    //},2000);
+    //});
+    // 2 seconds after the center of the map has changed, pan back to the marker : Close
+
+
+    //Open an InfoWindow When Clicking on The Marker : Start 
+    var infowindow = new google.maps.InfoWindow({
+    content:"I am here!"
+    });
+
+    google.maps.event.addListener(marker, 'click', function() {
+    infowindow.open(map,marker);
+    });
+    //Open an InfoWindow When Clicking on The Marker : Close 
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+</body>
+</html>

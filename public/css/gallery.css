@@ -1,0 +1,41 @@
+.modal-body{
+    padding: 0;
+}
+.modal-header .close {
+    margin-top: -25px;
+    margin-bottom: 5px !important;
+    margin-right: -20px;
+    color: #f00;
+    opacity: 1;
+}
+.close{
+    color: #F00;
+    opacity: 1;
+    position: absolute;
+    right: -8px;
+    top: -12px;
+    background: #fff;
+    padding: 1px 5px;
+    border-radius: 15px;
+}
+.modal-content{
+    position: relative;
+}
+
+.modal-content img{
+    margin: 0 auto;
+}
+
+.img-button{
+    width: 100%;
+max-width: 333px;
+height: 190px;
+cursor: pointer;
+padding: 8px;
+border: 1px solid #EEE !important;
+}
+
+.img-open{
+    width: 600px;
+    height: 350px;
+}

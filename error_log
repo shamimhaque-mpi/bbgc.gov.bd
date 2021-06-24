@@ -1,0 +1,211 @@
+[21-Mar-2018 10:56:23 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/settings/create-profile.php on line 18
+[21-Mar-2018 10:56:27 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/settings/create-profile.php on line 18
+[21-Mar-2018 12:13:57 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/settings/profile.php on line 83
+[21-Mar-2018 12:14:49 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/settings/profile.php on line 83
+[21-Mar-2018 18:48:55 asia/dhaka] PHP Parse error:  syntax error, unexpected '*' in /home/wwwbbdcedu/public_html/application/helpers/sms_helper.php on line 34
+[21-Mar-2018 18:49:36 asia/dhaka] PHP Parse error:  syntax error, unexpected '*' in /home/wwwbbdcedu/public_html/application/helpers/sms_helper.php on line 34
+[21-Mar-2018 18:50:24 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_sum() in /home/wwwbbdcedu/public_html/application/helpers/sms_helper.php on line 45
+[21-Mar-2018 18:52:28 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_sum() in /home/wwwbbdcedu/public_html/application/helpers/sms_helper.php on line 45
+[22-Mar-2018 18:17:06 asia/dhaka] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/wwwbbdcedu/public_html/application/views/components/committee/committee.php on line 82
+[22-Mar-2018 18:17:45 asia/dhaka] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/wwwbbdcedu/public_html/application/views/components/committee/committee.php on line 82
+[29-Jul-2018 16:13:32 asia/dhaka] PHP Fatal error:  Call to undefined method Action::joinAndReadOrderBy() in /home/wwwbbdcedu/public_html/application/controllers/admitCard.php on line 30
+[29-Jul-2018 16:38:57 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/admitCard/set-instruction.php on line 85
+[30-Jul-2018 09:41:10 asia/dhaka] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/wwwbbdcedu/public_html/application/controllers/admission/admission.php on line 9
+[30-Jul-2018 16:43:37 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_last_payment() in /home/wwwbbdcedu/public_html/application/controllers/student_payment/payment.php on line 234
+[30-Jul-2018 16:43:37 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_last_payment() in /home/wwwbbdcedu/public_html/application/controllers/student_payment/payment.php on line 234
+[30-Jul-2018 16:43:37 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_last_payment() in /home/wwwbbdcedu/public_html/application/controllers/student_payment/payment.php on line 234
+[30-Jul-2018 16:43:38 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_last_payment() in /home/wwwbbdcedu/public_html/application/controllers/student_payment/payment.php on line 234
+[30-Jul-2018 16:43:39 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_last_payment() in /home/wwwbbdcedu/public_html/application/controllers/student_payment/payment.php on line 234
+[30-Jul-2018 16:43:41 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/payment_history.php on line 33
+[30-Jul-2018 16:43:48 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/monthly_payment_history.php on line 29
+[30-Jul-2018 16:43:51 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/daily_payment_history.php on line 42
+[30-Jul-2018 16:43:55 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/setAmount.php on line 18
+[30-Jul-2018 16:44:29 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/payment_history.php on line 33
+[30-Jul-2018 16:46:09 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/payment_history.php on line 33
+[30-Jul-2018 16:46:14 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/student_payment/monthly_payment_history.php on line 29
+[30-Jul-2018 16:54:54 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/payment/fieldofpayment.php on line 123
+[30-Jul-2018 16:57:16 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/payment/fieldofpayment.php on line 123
+[30-Jul-2018 18:00:19 asia/dhaka] PHP Fatal error:  Call to undefined method Retrieve::readGroupBy() in /home/wwwbbdcedu/public_html/application/controllers/payment/payment_singleView.php on line 23
+[30-Jul-2018 18:01:18 asia/dhaka] PHP Fatal error:  Call to undefined method Retrieve::readGroupBy() in /home/wwwbbdcedu/public_html/application/controllers/payment/payment_singleView.php on line 23
+[30-Jul-2018 18:02:00 asia/dhaka] PHP Fatal error:  Call to undefined method Retrieve::readGroupBy() in /home/wwwbbdcedu/public_html/application/controllers/payment/payment_singleView.php on line 23
+[30-Jul-2018 18:02:03 asia/dhaka] PHP Fatal error:  Call to undefined method Retrieve::readGroupBy() in /home/wwwbbdcedu/public_html/application/controllers/payment/payment_singleView.php on line 23
+[30-Jul-2018 18:02:26 asia/dhaka] PHP Fatal error:  Call to undefined method Retrieve::readGroupBy() in /home/wwwbbdcedu/public_html/application/controllers/payment/payment_singleView.php on line 23
+[30-Jul-2018 18:03:03 asia/dhaka] PHP Fatal error:  Call to undefined method Retrieve::readGroupBy() in /home/wwwbbdcedu/public_html/application/controllers/payment/payment_singleView.php on line 23
+[30-Jul-2018 18:14:36 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_total() in /home/wwwbbdcedu/public_html/application/views/components/payment/report.php on line 279
+[30-Jul-2018 18:15:39 asia/dhaka] PHP Fatal error:  Call to undefined method Action::read_total() in /home/wwwbbdcedu/public_html/application/views/components/payment/report.php on line 279
+[30-Jul-2018 18:18:38 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/payment/report.php on line 284
+[30-Jul-2018 18:19:09 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/payment/report.php on line 304
+[30-Jul-2018 19:00:14 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/admission/admission.php on line 80
+[01-Aug-2018 16:27:30 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/cost/fieldcost.php on line 130
+[01-Aug-2018 16:33:03 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/cost/all.php on line 159
+[01-Aug-2018 16:45:46 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/income/field_income.php on line 106
+[01-Aug-2018 16:47:07 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbdcedu/public_html/application/views/components/income/income_view.php on line 160
+[01-Aug-2018 18:19:28 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/report/cost_report.php on line 49
+[09-Aug-2018 12:45:45 asia/dhaka] PHP Fatal error:  Call to undefined method Action::readAttendanceInfo() in /home/wwwbbdcedu/public_html/application/controllers/attendance/attendance.php on line 205
+[09-Aug-2018 12:47:08 asia/dhaka] PHP Fatal error:  Call to undefined method Action::readAttendanceInfo() in /home/wwwbbdcedu/public_html/application/controllers/attendance/attendance.php on line 205
+[12-Aug-2018 16:57:26 asia/dhaka] PHP Fatal error:  Call to undefined method Action::readAttendanceInfo() in /home/wwwbbdcedu/public_html/application/controllers/attendance/attendance.php on line 205
+[13-Aug-2018 13:00:48 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/header/video-gallery.php on line 2
+[13-Aug-2018 13:01:31 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/header/video-gallery.php on line 2
+[13-Aug-2018 13:01:52 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/header/video-gallery.php on line 12
+[13-Aug-2018 13:02:11 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/header/video-gallery.php on line 54
+[19-Aug-2018 14:37:18 asia/dhaka] PHP Fatal error:  Call to undefined function caption() in /home/wwwbbdcedu/public_html/application/views/components/admitCard/admit.php on line 114
+[19-Aug-2018 14:52:18 asia/dhaka] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/wwwbbdcedu/public_html/application/controllers/admitCard.php on line 10
+[27-Aug-2018 13:13:53 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:13:53 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:13:54 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:13:59 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:04 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:09 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:14 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:19 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:24 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:29 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:34 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:39 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:44 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:46 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:14:49 asia/dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 519
+[27-Aug-2018 13:47:47 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:47:48 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:47:49 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:47:55 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:47:59 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:48:04 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:48:09 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[27-Aug-2018 13:48:14 asia/dhaka] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 517
+[24-Sep-2018 17:29:33 asia/dhaka] PHP Fatal error:  Call to undefined function generateUniqueSerial() in /home/wwwbbdcedu/public_html/application/controllers/testimonial.php on line 78
+[06-Oct-2018 10:13:09 asia/dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 514
+[06-Oct-2018 10:13:11 asia/dhaka] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/wwwbbdcedu/public_html/application/controllers/home.php on line 514
+[18-Jul-2019 13:12:02 asia/dhaka] PHP Parse error:  syntax error, unexpected '$range' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 51
+[18-Jul-2019 13:12:58 asia/dhaka] PHP Parse error:  syntax error, unexpected '$range' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 51
+[18-Jul-2019 13:13:55 asia/dhaka] PHP Parse error:  syntax error, unexpected '$range' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 51
+[18-Jul-2019 13:14:39 asia/dhaka] PHP Parse error:  syntax error, unexpected '$range' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 51
+[18-Jul-2019 13:16:31 asia/dhaka] PHP Parse error:  syntax error, unexpected '$range' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 51
+[18-Jul-2019 13:40:11 asia/dhaka] PHP Parse error:  syntax error, unexpected ''-01-01'' (T_CONSTANT_ENCAPSED_STRING) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 58
+[18-Jul-2019 14:31:37 asia/dhaka] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 94
+[18-Jul-2019 14:33:37 asia/dhaka] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 94
+[18-Jul-2019 14:57:41 asia/dhaka] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 99
+[18-Jul-2019 14:58:04 asia/dhaka] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 98
+[18-Jul-2019 15:11:46 asia/dhaka] PHP Parse error:  syntax error, unexpected ''".($year).'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 93
+[18-Jul-2019 15:13:24 asia/dhaka] PHP Parse error:  syntax error, unexpected ''".($year).'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 93
+[18-Jul-2019 15:41:13 asia/dhaka] PHP Fatal error:  Call to a member function result() on null in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 98
+[18-Jul-2019 15:43:28 asia/dhaka] PHP Fatal error:  Call to a member function result() on null in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 98
+[18-Jul-2019 15:54:45 asia/dhaka] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 106
+[18-Jul-2019 16:06:10 asia/dhaka] PHP Parse error:  syntax error, unexpected '.' in /home/wwwbbgcgov/public_html/application/controllers/report/cost_report.php on line 88
+[26-Aug-2019 12:40:10 asia/dhaka] PHP Fatal error:  Call to undefined function pring_r() in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 209
+[26-Aug-2019 12:46:21 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[26-Aug-2019 12:46:21 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[26-Aug-2019 12:46:22 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[26-Aug-2019 12:46:26 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[26-Aug-2019 12:46:26 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[26-Aug-2019 12:46:27 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[26-Aug-2019 12:46:27 asia/dhaka] PHP Parse error:  syntax error, unexpected ')' in /home/wwwbbgcgov/public_html/application/controllers/home.php on line 216
+[21-Sep-2019 16:16:31 asia/dhaka] PHP Fatal error:  Function name must be a string in /home/wwwbbgcgov/public_html/application/controllers/sms/sendSms.php on line 8
+[21-Sep-2019 16:22:04 asia/dhaka] PHP Fatal error:  Unsupported operand types in /home/wwwbbgcgov/public_html/application/views/components/sms/send-custom-sms.php on line 38
+[19-Oct-2019 18:27:38 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/showResult.php on line 753
+[20-Oct-2019 10:53:31 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 51
+[20-Oct-2019 10:53:32 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 51
+[20-Oct-2019 10:56:42 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 51
+[20-Oct-2019 10:56:44 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 51
+[20-Oct-2019 10:58:24 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 51
+[20-Oct-2019 10:58:25 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 51
+[20-Oct-2019 10:59:42 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 50
+[20-Oct-2019 10:59:43 asia/dhaka] PHP Fatal error:  Call to a member function flashdata() on null in /home/wwwbbgcgov/public_html/application/views/sms/sms.php on line 50
+[02-Nov-2019 14:18:48 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwbbgcgov/public_html/application/views/components/teacher_id.php on line 266
+[02-Nov-2019 14:18:50 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwbbgcgov/public_html/application/views/components/teacher_id.php on line 266
+[02-Nov-2019 14:18:51 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwbbgcgov/public_html/application/views/components/teacher_id.php on line 266
+[02-Nov-2019 14:19:40 asia/dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/wwwbbgcgov/public_html/application/views/components/teacher_id.php on line 266
+[03-Nov-2019 16:42:11 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/report/report_nav.php on line 3
+[03-Nov-2019 16:42:28 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/income/nav.php on line 3
+[03-Nov-2019 16:43:18 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/cost/nav.php on line 3
+[03-Nov-2019 16:45:09 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/report/report_nav.php on line 3
+[03-Nov-2019 16:45:34 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/report/report_nav.php on line 3
+[03-Nov-2019 16:46:14 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/income/nav.php on line 3
+[03-Nov-2019 16:46:45 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/cost/fieldcost.php on line 153
+[03-Nov-2019 16:58:08 asia/dhaka] PHP Fatal error:  Call to undefined method Action::readCostMonthYearwise() in /home/wwwbbgcgov/public_html/application/views/components/cost/monthlyCostReport.php on line 255
+[03-Nov-2019 16:59:59 asia/dhaka] PHP Fatal error:  Call to undefined method Action::readCostMonthYearwise() in /home/wwwbbgcgov/public_html/application/views/components/cost/monthlyCostReport.php on line 255
+[03-Nov-2019 17:02:01 asia/dhaka] PHP Fatal error:  Call to undefined function get_month_name() in /home/wwwbbgcgov/public_html/application/views/components/cost/monthlyCostReport.php on line 283
+[03-Nov-2019 17:05:06 asia/dhaka] PHP Fatal error:  Call to undefined function get_month_name() in /home/wwwbbgcgov/public_html/application/views/components/cost/monthlyCostReport.php on line 283
+[03-Nov-2019 17:08:26 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/income/nav.php on line 3
+[03-Nov-2019 17:08:35 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/report/report_nav.php on line 3
+[03-Nov-2019 17:09:24 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/income/field_income.php on line 130
+[03-Nov-2019 17:10:37 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/income/field_income.php on line 130
+[03-Nov-2019 17:27:29 asia/dhaka] PHP Fatal error:  Call to undefined function ck_action() in /home/wwwbbgcgov/public_html/application/views/components/report/report_nav.php on line 3
+[04-Nov-2019 12:41:40 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 12:42:40 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 12:43:04 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 12:43:33 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 12:43:46 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 12:44:12 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 12:49:59 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[04-Nov-2019 13:04:07 asia/dhaka] PHP Fatal error:  Call to undefined function incomeFiledId() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 24
+[06-Nov-2019 16:04:12 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/components/income/add_income.php on line 248
+[07-Nov-2019 12:52:47 asia/dhaka] PHP Fatal error:  Call to undefined function read() in /home/wwwbbgcgov/public_html/application/controllers/income/infoView.php on line 190
+[11-Nov-2019 11:01:14 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wwwbbgcgov/public_html/application/views/components/income/monthlyIncomeReport.php on line 157
+[11-Nov-2019 11:11:43 asia/dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/wwwbbgcgov/public_html/application/views/components/income/monthlyIncomeReport.php on line 164
+[11-Nov-2019 13:01:43 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/components/income/income_view.php on line 261
+[11-Nov-2019 14:53:13 asia/dhaka] PHP Fatal error:  Call to undefined function read_sum() in /home/wwwbbgcgov/public_html/application/views/components/income/monthlyIncomeReport.php on line 172
+[11-Nov-2019 15:57:30 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/components/income/monthlyIncomeReport.php on line 214
+[11-Nov-2019 15:58:16 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/components/income/monthlyIncomeReport.php on line 199
+[13-Nov-2019 17:47:15 asia/dhaka] PHP Parse error:  syntax error, unexpected ',' in /home/wwwbbgcgov/public_html/application/views/components/income/edit.php on line 40
+[25-Nov-2019 11:32:30 asia/dhaka] PHP Fatal error:  Using $this when not in object context in /home/wwwbbgcgov/public_html/application/helpers/custom_helper.php on line 285
+[25-Nov-2019 11:44:35 asia/dhaka] PHP Fatal error:  Using $this when not in object context in /home/wwwbbgcgov/public_html/application/helpers/custom_helper.php on line 283
+[25-Nov-2019 17:12:46 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/user/includes/aside.php on line 1045
+[30-Nov-2019 15:48:10 asia/dhaka] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/wwwbbgcgov/public_html/application/views/components/income/income_view.php on line 219
+[30-Nov-2019 15:50:15 asia/dhaka] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/wwwbbgcgov/public_html/application/views/components/income/income_view.php on line 219
+[10-Dec-2019 17:39:51 asia/dhaka] PHP Parse error:  syntax error, unexpected '$where' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/payment/receieve_payment.php on line 75
+[10-Dec-2019 18:00:31 asia/dhaka] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/wwwbbgcgov/public_html/application/controllers/payment/receieve_payment.php on line 96
+[11-Dec-2019 15:15:24 asia/dhaka] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/wwwbbgcgov/public_html/application/views/components/tabulation-sheet.php on line 239
+[15-Dec-2019 14:39:35 asia/dhaka] PHP Parse error:  syntax error, unexpected '"khalil"' (T_CONSTANT_ENCAPSED_STRING) in /home/wwwbbgcgov/public_html/application/views/components/registration/allStudent.php on line 115
+[15-Dec-2019 14:40:49 asia/dhaka] PHP Parse error:  syntax error, unexpected '{' in /home/wwwbbgcgov/public_html/application/views/components/registration/allStudent.php on line 115
+[15-Dec-2019 14:40:56 asia/dhaka] PHP Parse error:  syntax error, unexpected '{' in /home/wwwbbgcgov/public_html/application/views/components/registration/allStudent.php on line 115
+[15-Dec-2019 15:27:15 asia/dhaka] PHP Parse error:  syntax error, unexpected '{' in /home/wwwbbgcgov/public_html/application/views/components/registration/allStudent.php on line 121
+[15-Dec-2019 15:30:34 asia/dhaka] PHP Parse error:  syntax error, unexpected '{' in /home/wwwbbgcgov/public_html/application/views/components/registration/allStudent.php on line 121
+[23-Dec-2019 16:29:44 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:29:49 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:29:56 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:30:10 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:30:14 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:30:14 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:30:29 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:31:08 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:31:27 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:31:51 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:32:04 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:33:52 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:33:52 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:33:52 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:34:07 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:34:20 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:10 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:23 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:39 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:46 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:46 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:46 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:35:59 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:36:14 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:37:26 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:37:56 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:39:22 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[23-Dec-2019 16:41:43 asia/dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/wwwbbgcgov/public_html/application/controllers/registration/regi_validation.php on line 38
+[01-Jan-2020 11:40:06 asia/dhaka] PHP Parse error:  syntax error, unexpected '$orderBy' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/payment/payment_report.php on line 49
+[01-Jan-2020 11:40:06 asia/dhaka] PHP Parse error:  syntax error, unexpected '$orderBy' (T_VARIABLE) in /home/wwwbbgcgov/public_html/application/controllers/payment/payment_report.php on line 49
+[01-Jan-2020 11:40:16 asia/dhaka] PHP Parse error:  syntax error, unexpected '"id"' (T_CONSTANT_ENCAPSED_STRING) in /home/wwwbbgcgov/public_html/application/controllers/payment/payment_report.php on line 49
+[01-Jan-2020 11:40:19 asia/dhaka] PHP Parse error:  syntax error, unexpected '"id"' (T_CONSTANT_ENCAPSED_STRING) in /home/wwwbbgcgov/public_html/application/controllers/payment/payment_report.php on line 49
+[02-Jan-2020 09:50:04 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwbbgcgov/public_html/application/views/components/bank/all_account.php on line 141
+[02-Jan-2020 09:50:50 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwbbgcgov/public_html/application/views/components/bank/all_account.php on line 141
+[02-Jan-2020 09:51:48 asia/dhaka] PHP Fatal error:  Call to undefined function f_number() in /home/wwwbbgcgov/public_html/application/views/components/bank/all_account.php on line 143
+[05-Jan-2020 14:34:17 asia/dhaka] PHP Fatal error:  Call to undefined function get_sum() in /home/wwwbbgcgov/dev.bbgc.gov.bd/application/views/components/payment/report.php on line 247
+[05-Jan-2020 14:43:01 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/dev.bbgc.gov.bd/application/views/components/payment/report.php on line 306
+[05-Jan-2020 14:49:35 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/dev.bbgc.gov.bd/application/views/components/payment/report.php on line 307
+[05-Jan-2020 14:52:24 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/dev.bbgc.gov.bd/application/views/components/payment/report.php on line 307
+[21-Jan-2020 17:23:41 asia/dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/wwwbbgcgov/public_html/application/views/components/report/field_wise_balance_report.php on line 131
+[22-Jan-2020 17:16:17 asia/dhaka] PHP Fatal error:  Cannot redeclare Identity::teacher() in /home/wwwbbgcgov/public_html/application/controllers/identity.php on line 149
+[26-Jan-2020 11:02:38 asia/dhaka] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/wwwbbgcgov/public_html/application/views/components/payment/field_report.php on line 145
+[26-Jan-2020 11:02:43 asia/dhaka] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/wwwbbgcgov/public_html/application/views/components/payment/field_report.php on line 145
+[26-Jan-2020 11:03:29 asia/dhaka] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/wwwbbgcgov/public_html/application/views/components/payment/field_report.php on line 145
+[26-Jan-2020 11:03:31 asia/dhaka] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/wwwbbgcgov/public_html/application/views/components/payment/field_report.php on line 145
+[26-Jan-2020 11:03:36 asia/dhaka] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/wwwbbgcgov/public_html/application/views/components/payment/field_report.php on line 145
+[26-Jan-2020 11:21:07 asia/dhaka] PHP Parse error:  syntax error, unexpected '.' in /home/wwwbbgcgov/public_html/application/views/components/payment/field_report.php on line 150
+[05-Feb-2020 12:04:19 asia/dhaka] PHP Fatal error:  Call to undefined method Action::get_result() in /home/wwwbbgcgov/public_html/application/controllers/report/balance_report.php on line 48
